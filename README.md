@@ -22,3 +22,6 @@ Facultat d'Informàtica de Barcelona - Aspectes Socials i Mediambientals de la I
     - kitchen adder
     - z1, z2
     - Mark-1
+
+#### El progrés i la seva crisi: l'avaluació prèvia de tecnologies (27/02/2017) ####
+    tensorFlow, Charles Dickens (oliver twist)
