@@ -1,0 +1,13 @@
+# Comentari sobre el vídeo: *Libertad en la red* #
+
+Un dels primers plantejaments del vídeo és que: realment hem de portar la tecnologia als països menys afavorits? Ja que, encara que "hem avançat tecnològicament" la gent no sembla ser més feliç. Jo penso que realment, s'ha d'ensenyar al món tots els descobriments que es facin, i després ha de ser la gent que ha de decidir adoptar els descobriments o no. Encara que aquesta idea pot arribar a ser perillosa, ja que els "descobriments" es poden utilitzar tant per bé com per mal, però m'agrada la idea d'avançar tecnològicament i el món que es pot arribar a crear si la majoria de gent en fa un ús correcte.
+
+El següent concepte que m'ha cridat l'atenció és el fet que abans d'internet, totes les eines de comunicació podien estar fàcilment controlades pel poder, a diferència d'internet, que va ser gestada per poder ser usada per qualsevol persona, sense necessitar el permís de ningú. Després introdueixen el contra-concepte de que va creixer rapidament, usantse mes per la compra-venta que pel compartiment d'arxius de qualsevol tipus.
+
+Un altre dels conceptes dels quals es parla en el vídeo és que internet a introduït un món de possibilitats de com guanyar-se la vida. En això estic totalment d'acord, i suposo que per a com a mínim el 99,99% de la gent de la facultat ho veuen igual, ja que tots depenem d'internet per qualsevol de les feines que arribem a fer o projectes personals que vulguem dur a terme.
+
+Un dels últims conceptes és que, encara que internet es va dissenyar com a un lloc lliure, el fet de la manca de lleis que el controlin, fa que les companyies més gegants canibalitzin tot el tràfic.
+
+# Comentari sobre el debat de la privacitat #
+
+A classe vam tenir un debat sobre que trobàvem més necessari, si tenir privacitat real, o si era millor prescindir de la privacitat en favor de la seguretat, ja que molt sovint es dóna l'argument "Jo no tinc res per amagar". Jo en algun moment he arribat a pensar això de "Jo no tinc res que amagar", però últimament estic canviant d'idea, ja que veient el món arribo a la conclusió de què no compartim una visió del que és bo, dolent o què és castigable. Si cedim la privacitat, en favor de la seguretat, qui gestiona aquesta seguretat seria el govern, que en el nostre cas és el govern del PP, el qual no pot estar cobert de més casos de corrupció i aplica lleis com la llei mordassa i titlla a independentistes de nazis. Tot i fer totes aquestes coses la MAJORIA de la gent que vota, segueix votant la mateixa gent, i per aquesta raó, a mi, que hem deixin la meva privacitat intacta, per si un cas, gent amb ideologies diferents i prou radicals es troben un dia en control d'aplicar la "seguretat".

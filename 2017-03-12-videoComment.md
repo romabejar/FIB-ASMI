@@ -1,0 +1,5 @@
+# Comentari sobre el vídeo: *What happens when our computers get smarter than we are* #
+
+Penso que és cert que estem molt a prop d'arribar al punt de la singularitat, del qual es parla en el vídeo i crec que és probablement el punt més interessant en la història de la humanitat, ja que com es comenta en el vídeo, és l'últim invent que haurà de crear la humanitat per si mateixa. Si tenim una IA que pot gestionar i dur a terme totes les feines necessàries, ens lliuraríem inclús de tot treball.
+
+Un altre punt que es comenta en el vídeo és que s'ha de tenir cura a l'hora de aconseguir crear aquesta IA, perquè els seus interessos estiguin alineats amb els nostres, ja que altrament, ens trobaríem en la situació envers aquesta IA en la que es troben moltes altres espècies envers els humans, que el seu destí depèn més dels nostres interessos o voluntat que dels seus. Trobo que és interessant i important començar a posar aquesta idea en la ment de la gent, ja que és d'interès general que qui arribi a crear aquesta IA hagi filosofat sobre aquests conceptes.
